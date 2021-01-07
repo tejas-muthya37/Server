@@ -1,0 +1,10 @@
+{ "fname": "John",
+  "lname": "John",
+  "birthdate": "1999-01-19",
+  "housenumber": 30,
+  "streetname": "New York",
+  "locality": "sadas",
+  "pincode": 111111,
+  "phonenumber": "111111111",
+  "email": "xyz@gmail.com"
+}
